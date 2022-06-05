@@ -1,0 +1,50 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.all{
+    background-color: #FFFFFF;
+    
+    width: 1200px;
+    margin: 0 auto;
+   
+   
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+/*about styles*/
+.about{
+background-color: aquamarine;
+}
+.projects{
+    background-color: blueviolet;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+}
+/*Work experience*/
+.work_exp{
+    background-color: chocolate;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+
+}
+
+.education {
+    background-color: yellowgreen;
+
+}
+
+.sidebar{
+    background: #1E2939;
+    /*display: flex;
+    flex-direction: row-reverse;*/
+}
